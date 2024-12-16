@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using catch-all routes ('/*') in React Router v6.  The problem arises when trying to combine a catch-all route with path parameters, which is not supported.  The solution provided shows how to correctly handle this scenario using nested routes or a different approach.
